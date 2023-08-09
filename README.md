@@ -1,6 +1,6 @@
-# Noweber's Project Portfolio
+# Noweber Projects
 
-Welcome to my personal project portfolio! Here, you'll find a showcase of my projects, complete with descriptions, screenshots, links to the working versions, and the technology stacks used.
+Please find a subset of my recent projects below. Some of my non-commercial / academic projects are available as public repositories on my account. Please feel free to reach out with any questions.
 
 ---
 
