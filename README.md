@@ -45,10 +45,15 @@ This is a commercial product under development. You will need a personalized acc
 ---
 
 ## [District N](https://noweber.itch.io/district-n)
+_A 2.5D casual strategy game._
 
 ## [Aquarius Emblem](https://noweber.itch.io/aquarius-emblem)
+_A chess-like strategy game with an emphasis on unit synergies._
+
+## [Square Invaders](https://noweber.github.io/ludum-dare-53/)
+_A 2D platformer inspired by Vampire Survivors made in roughly 5 hours._
 
 ## Contact
 
-You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com). Let's connect!
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/noweber/).
 
