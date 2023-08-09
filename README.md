@@ -44,6 +44,10 @@ This is a commercial product under development. You will need a personalized acc
   - Azure Functions
 ---
 
+## [District N](https://noweber.itch.io/district-n)
+
+## [Aquarius Emblem](https://noweber.itch.io/aquarius-emblem)
+
 ## Contact
 
 You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com). Let's connect!
