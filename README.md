@@ -8,10 +8,19 @@ Welcome to my personal project portfolio! Here, you'll find a showcase of my pro
 
 _Description:_ A player vs. player auto-battle strategy RPG.
 
-### Screenshots
-| Customize Characters | Buiild Synergetic Parties | Engage in PvP
-|-------------|------------------|
-| ![Customize Characters](screenshots/project-ogre/characters-0.png) | ![Customize Characters](screenshots/project-ogre/characters-1.png) |
+### Feature Screenshots:
+#### Customize Characters
+![Customize Characters](screenshots/project-ogre/characters-0.png)
+![Customize Characters](screenshots/project-ogre/characters-1.png)
+#### Buiild Synergetic Parties
+![Customize Characters](screenshots/project-ogre/parties-0.png)
+![Customize Characters](screenshots/project-ogre/parties-1.png)
+![Customize Characters](screenshots/project-ogre/parties-0.png)
+#### Watch Engaging Auto-Battles
+![Customize Characters](screenshots/project-ogre/skirmish-0.png)
+#### Conquer PvP
+![Customize Characters](screenshots/project-ogre/pvp-0.png)
+![Customize Characters](screenshots/project-ogre/pvp-1.png)
 
 ### Playable URL
 This is a commercial product under development. You will need a personalized acces code to play. Please email me directly for this until the open beta.
