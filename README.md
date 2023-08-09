@@ -9,9 +9,9 @@ Welcome to my personal project portfolio! Here, you'll find a showcase of my pro
 _Description:_ A player vs. player auto-battle strategy RPG.
 
 ### Screenshots
-| Home Screen | Feature Showcase |
+| Customize Characters | Buiild Synergetic Parties | Engage in PvP
 |-------------|------------------|
-| ![Home Screen](screenshots/project1_home.png) | ![Feature Showcase](screenshots/project1_feature.png) |
+| ![Customize Characters](screenshots/project-ogre/characters-0.png) | ![Customize Characters](screenshots/project-ogre/characters-1.png) |
 
 ### Playable URL
 This is a commercial product under development. You will need a personalized acces code to play. Please email me directly for this until the open beta.
