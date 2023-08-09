@@ -2,6 +2,8 @@
 
 Please find a subset of my recent projects below. Some of my non-commercial and academic projects are available as public repositories on my account. Many course projects are not listed to help prevent academic dishonesty, however. Please feel free to reach out with any questions.
 
+I am currently migrating from a portfolio website to this GitHub page, but you can find many more project descriptions here on my (Portfolio)[https://www.noweber.dev/]
+
 ---
 
 ## [Project Ogre](https://github.com/noweber/Project-Ogre)
