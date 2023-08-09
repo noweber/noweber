@@ -1,6 +1,6 @@
 # Noweber's Projects
 
-Please find a subset of my recent projects below. Some of my non-commercial / academic projects are available as public repositories on my account. Please feel free to reach out with any questions.
+Please find a subset of my recent projects below. Some of my non-commercial and academic projects are available as public repositories on my account. Many course projects are not listed to help prevent academic dishonesty, however. Please feel free to reach out with any questions.
 
 ---
 
