@@ -6,7 +6,6 @@ Please find a subset of my recent projects below. Some of my non-commercial and 
 
 ## [Project Ogre](https://github.com/noweber/Project-Ogre)
 
-### X Statement
 _A player vs. player auto-battle strategy RPG._
 
 ### Technical Description:
