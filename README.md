@@ -41,38 +41,6 @@ This is a commercial product under development. You will need a personalized acc
   - Azure Functions
 ---
 
-## Project 2: [ProjectName2](https://github.com/YourUsername/ProjectName2)
-
-_Description:_ A brief description of the project and its purpose.
-
-### Screenshots
-| Landing Page | User Dashboard |
-|--------------|----------------|
-| ![Landing Page](screenshots/project2_landing.png) | ![User Dashboard](screenshots/project2_dashboard.png) |
-
-### [View Project](https://project-ogre-ui.azurewebsites.net/title) | [GitHub Repository](https://github.com/YourUsername/ProjectName2)
-
-### Technology Stack
-- List of technologies and frameworks used in this project.
-
----
-
-## Project 3: [ProjectName3](https://github.com/YourUsername/ProjectName3)
-
-_Description:_ A brief description of the project and its purpose.
-
-### Screenshots
-| Prototype | Admin Panel |
-|-----------|-------------|
-| ![Prototype](screenshots/project3_prototype.png) | ![Admin Panel](screenshots/project3_admin.png) |
-
-### [View Project](https://your-website.com/project3) | [GitHub Repository](https://github.com/YourUsername/ProjectName3)
-
-### Technology Stack
-- List of technologies and frameworks used in this project.
-
----
-
 ## Contact
 
 You can reach out to me via email at [your.email@example.com](mailto:your.email@example.com). Let's connect!
