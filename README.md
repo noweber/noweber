@@ -4,7 +4,7 @@ Welcome to my personal project portfolio! Here, you'll find a showcase of my pro
 
 ---
 
-## Project 0: [Project Ogre](https://github.com/noweber/Project-Ogre)
+## [Project Ogre](https://github.com/noweber/Project-Ogre)
 
 _Description:_ A player vs. player auto-battle strategy RPG.
 
