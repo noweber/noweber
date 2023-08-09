@@ -1,10 +1,10 @@
-# [Noweber]'s Project Portfolio
+# Noweber's Project Portfolio
 
 Welcome to my personal project portfolio! Here, you'll find a showcase of my projects, complete with descriptions, screenshots, links to the working versions, and the technology stacks used.
 
 ---
 
-## Project Ogre: [ProjectName1](https://github.com/noweber/Project-Ogre)
+## Project 0: [Project Ogre](https://github.com/noweber/Project-Ogre)
 
 _Description:_ A player vs. player auto-battle strategy RPG.
 
@@ -15,7 +15,7 @@ _Description:_ A player vs. player auto-battle strategy RPG.
 
 ### Playable URL
 This is a commercial product under development. You will need a personalized acces code to play. Please email me directly for this until the open beta.
-[View Project](https://project-ogre-ui.azurewebsites.net/title)
+[Play](https://project-ogre-ui.azurewebsites.net/title)
 
 ### Technology Stack
 - List of technologies and frameworks used in this project.
