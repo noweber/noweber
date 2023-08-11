@@ -9,7 +9,7 @@ Please find a subset of my recent projects below. Some of my non-commercial and 
 _A player vs. player auto-battle strategy RPG._
 
 ### Technical Description:
-I built the front-end in Angular using HTML, CSS, and TypeScript. I created a basic renderer to composer characters, parties, and battles onto an HTML canvas, but more recently have been migrating to PixiJS for SFX. The back-end is cloud-native to Azure in C#, Python, and Scala. The gist is that the player data is stored in SQL and the battles produces JSON which are replayed in the Angular client. Please visit my Project Ogre [repository](https://github.com/noweber/Project-Ogre) for more details.
+I built the front-end in Angular using HTML, CSS, and TypeScript. I created a basic renderer to compose characters, parties, and battles onto an HTML canvas, but more recently have been migrating to PixiJS for SFX. The back-end is cloud-native to Azure in C#, Python, and Scala. The gist is that the player data is stored in SQL and the battles produces JSON which are replayed in the Angular client. Please visit my Project Ogre [repository](https://github.com/noweber/Project-Ogre) for more details.
 
 ### Feature Screenshots:
 #### Customize Characters
