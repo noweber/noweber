@@ -1,6 +1,6 @@
 # Technologies Overview
 
-This document provides an overview of the programming languages and technologies I use professionally. 7
+This document provides an overview of the programming languages and technologies I use professionally.
 
 ## Programming Languages
 
