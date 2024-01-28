@@ -1,59 +1,73 @@
-# Noweber's Projects
+# Technologies Overview
 
-Please find a subset of my recent projects below. Some of my non-commercial and academic projects are available as public repositories on my account. Many course projects are not listed to help prevent academic dishonesty, however. Please feel free to reach out with any questions.
+This document provides an overview of the programming languages and technologies I use professionally. 7
+
+## Programming Languages
+
+### Most-Used Languages
+- C#
+- Python
+- C++
+- TypeScript
+- HTML
+- CSS
+- SQL
+
+### Other Languages
+- Java
+- JavaScript
+- Scala
+- YAML
+- Lua
+
+## Technologies
+
+### Back-End Technologies
+- **REST APIs:** .NET, Spring Boot, Django, Flask
+- **Pub/Sub Systems:** Apache Kafka, RabbitMQ, Azure Event Hubs
+- **RDBMS:** MS SQL, PostgreSQL, MariaDB
+- **NoSQL Databases:** Redis, Cassandra, Elasticsearch, MongoDB, Neo4j, Cosmos DB
+
+### Front-End Technologies
+- **Web/Mobile Development:** Angular, Razor, Xamarin
+- **Game Development:** Unity, OpenGL, SDL, LÖVE2D
+
+### Testing Tools
+- Cypress, MS Test, xUnit, Moq, JUnit, Apache JMeter, Cucumber, Selenium
+
+## Cloud Infrastructure
+
+### Azure Services
+- Azure App Services, Azure App Service Environments, Azure Functions
+- Azure Event Hub, Azure Storage (Blobs, Tables & Queues), Azure SQL
+- Azure Cognitive Search, Azure Container Registry, Azure CDN
+- Network Security Groups, Azure Traffic Manager, Azure Cosmos DB
+- Azure Key Vault, Azure Active Directory, Azure OpenAI
+
+### AWS Services
+- Amazon RDS, Amazon S3, Amazon EKS, Amazon Simple Email Service
+- AWS Systems Manager, Amazon Route 53
+
+### Infrastructure as Code
+- Terraform
+
+### Containers
+- Docker, Kubernetes
+
+## DevOps
+
+### Build and Release Pipelines
+- YAML
+
+### Continuous Integration / Continuous Deployment (CI/CD)
+- Azure DevOps, GitHub Actions
+
+## Authentication and Authorization
+- JWT (JSON Web Tokens), OAUTH2, AWS Cognito, OKTA
+- Multi-Factor Authentication (MFA), Identity and Access Management (IAM)
+- Role-Based Access Control (RBAC)
+
+## Data Science and Machine Learning Libraries
+- Pandas, NumPy, Scikit-Learn, TensorFlow
 
 ---
-
-## [Project Ogre](https://github.com/noweber/Project-Ogre)
-
-_A player vs. player auto-battle strategy RPG._
-
-### Technical Description:
-I built the front-end in Angular using HTML, CSS, and TypeScript. I created a basic renderer to compose characters, parties, and battles onto an HTML canvas, but more recently have been migrating to PixiJS for SFX. The back-end is cloud-native to Azure in C#, Python, and Scala. The gist is that the player data is stored in SQL and the battles produces JSON which are replayed in the Angular client. Please visit my Project Ogre [repository](https://github.com/noweber/Project-Ogre) for more details.
-
-### Feature Screenshots:
-#### Customize Characters
-![Customize Characters](screenshots/project-ogre/characters-0.png)
-![Customize Characters](screenshots/project-ogre/characters-1.png)
-#### Buiild Synergetic Parties
-![Customize Characters](screenshots/project-ogre/parties-0.png)
-![Customize Characters](screenshots/project-ogre/parties-1.png)
-![Customize Characters](screenshots/project-ogre/parties-0.png)
-#### Watch Engaging Auto-Battles
-![Customize Characters](screenshots/project-ogre/skirmish-0.png)
-#### Conquer PvP
-![Customize Characters](screenshots/project-ogre/pvp-0.png)
-![Customize Characters](screenshots/project-ogre/pvp-1.png)
-
-### Playable URL
-This is a commercial product under development. You will need a personalized acces code to play. Please email me directly for this until the open beta.
-[Play](https://project-ogre-ui.azurewebsites.net/title)
-
-### Technology Stack
-- List of technologies and frameworks used in this project.
-- Angular 16
-- .NET 7
-- Azure Services:
-  - Azure BLOB Storage
-  - Azure SQL
-  - Azure Cosmos DB
-  - Azure Event Hubs
-  - Azure Databricks
-  - Azure OpenAI
-  - Azure Kubernetes Service
-  - Azure Functions
----
-
-## [District N](https://noweber.itch.io/district-n)
-_A 2.5D casual strategy game._
-
-## [Aquarius Emblem](https://noweber.itch.io/aquarius-emblem)
-_A chess-like strategy game with an emphasis on unit synergies._
-
-## [Square Invaders](https://noweber.github.io/ludum-dare-53/)
-_A 2D platformer inspired by Vampire Survivors made in roughly 5 hours._
-
-## Contact
-
-You can reach out to me via [LinkedIn](https://www.linkedin.com/in/noweber/).
-
