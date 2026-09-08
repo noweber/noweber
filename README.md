@@ -2,7 +2,7 @@
 - [District Ogre](https://github.com/Project-Ogre) — Online auto-battle RPG game built with Angular & .NET.
 <img width="512" height="293" alt="image" src="https://github.com/user-attachments/assets/42c25759-2488-42c5-8a6d-3f0b5708046b" />
 
-- [Demo Video]([https://github.com/Project-Ogre](https://www.youtube.com/shorts/dHrowxtWtEU))
+- [Demo Video](https://www.youtube.com/shorts/dHrowxtWtEU)
 
 ## Portfolio
 - [Portfolio](https://www.noweber.dev/) — A portfolio of games, prototypes, and tools for content generation.
